@@ -7,7 +7,7 @@ Wire up a BEC (Battery Elimination Circuit). Where the BEC is rated 5V out and a
 Usign a XT30 Male as the input and two dupont connectors, 2.54mm pitch, on each output.
 
 <figure>
-  <img src="../.gitbook/assets/example-wing-build/BECWired.jpg" alt="BECWired.jpg">
+  <img src="../.gitbook/assets/example-wing-build/BECwired.jpg" alt="BECwired.jpg">
   <figcaption></figcaption>
 </figure>
 
