@@ -20,6 +20,6 @@ Run OpenHD-Ground and then QOpenHD.
 After PI 2 W has successfully connected, changed the camera settings to 1280 x 720 pixels at 60 fps.
 
 <figure>
-  <img src="../.gitbook/assets/example-wing-build/Example Running.png" alt="Example Running.png">
+  <img src="../.gitbook/assets/example-wing-build/Example Running.jpg" alt="Example Running.png">
   <figcaption></figcaption>
 </figure>
